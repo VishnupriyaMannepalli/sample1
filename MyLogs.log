@@ -1,0 +1,19 @@
+[INFO ] 2024-04-25 15:39:18.663 [main] TaskUsingPropertiesfile - SQL Exception:
+java.sql.SQLException: No suitable driver found for jdbc:postgres://localhost:5432/StudentDB
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:706) ~[java.sql:?]
+	at java.sql/java.sql.DriverManager.getConnection(DriverManager.java:229) ~[java.sql:?]
+	at jdbc.TaskUsingPropertiesfile.main(TaskUsingPropertiesfile.java:45) [bin/:?]
+[INFO ] 2024-04-25 15:39:38.973 [main] TaskUsingPropertiesfile - student_name:Priya, rollno:1
+[INFO ] 2024-04-25 15:39:38.976 [main] TaskUsingPropertiesfile - student_name:Mounika, rollno:2
+[INFO ] 2024-04-25 15:39:38.976 [main] TaskUsingPropertiesfile - student_name:Navya, rollno:3
+[INFO ] 2024-04-25 15:41:33.061 [main] TaskUsingPropertiesfile - student_name:Priya, rollno:1
+[INFO ] 2024-04-25 15:41:33.077 [main] TaskUsingPropertiesfile - student_name:Mounika, rollno:2
+[INFO ] 2024-04-25 15:41:33.077 [main] TaskUsingPropertiesfile - student_name:Navya, rollno:3
+[INFO ] 2024-04-25 17:42:21.829 [main] TaskUsingPropertiesfile - student_name:Priya, rollno:1
+[INFO ] 2024-04-25 17:42:21.833 [main] TaskUsingPropertiesfile - student_name:Mounika, rollno:2
+[INFO ] 2024-04-25 17:42:21.834 [main] TaskUsingPropertiesfile - student_name:Navya, rollno:3
+[INFO ] 2024-04-25 17:42:21.834 [main] TaskUsingPropertiesfile - student_name:Priya, rollno:11
+[INFO ] 2024-04-25 17:42:21.834 [main] TaskUsingPropertiesfile - student_name:Mounika, rollno:22
+[INFO ] 2024-04-25 17:42:21.834 [main] TaskUsingPropertiesfile - student_name:Navya, rollno:33
+[INFO ] 2024-04-25 17:42:21.835 [main] TaskUsingPropertiesfile - student_name:Bhavitha, rollno:44
+[INFO ] 2024-04-25 17:42:21.849 [main] TaskUsingPropertiesfile - Stored procedure created successfully.
